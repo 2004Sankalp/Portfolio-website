@@ -26,7 +26,7 @@ export function Contact() {
           Accept: "application/json",
         },
         body: JSON.stringify({
-          access_key: "099a9a13-4e4b-4b2a-8d7d-5a9e3a6a9a9a", // Note: User should replace this with their own key
+          access_key: "db97350c-5225-4490-bbc6-0c895d912f0a",
           name: formData.name,
           email: formData.email,
           message: formData.message,
@@ -130,7 +130,7 @@ export function Contact() {
                 </div>
 
                 {submitted ? (
-                  <motion.div 
+                  <motion.div
                     initial={{ opacity: 0, scale: 0.9 }}
                     animate={{ opacity: 1, scale: 1 }}
                     className="p-4 bg-green-500/10 border border-green-500/50 rounded-xl text-green-600 text-center font-medium"
@@ -138,8 +138,8 @@ export function Contact() {
                     ✨ Message sent successfully! I'll get back to you soon.
                   </motion.div>
                 ) : (
-                  <Button 
-                    type="submit" 
+                  <Button
+                    type="submit"
                     className="w-full rounded-full h-12 group"
                     size="lg"
                     disabled={isSubmitting}
@@ -171,7 +171,7 @@ export function Contact() {
           >
             <div>
               <h3 className="text-2xl font-semibold mb-6">Contact Information</h3>
-              
+
               <div className="space-y-4">
                 {/* Email */}
                 <motion.a
@@ -258,8 +258,8 @@ export function Contact() {
             >
               <h4 className="font-semibold mb-2">Let's Collaborate!</h4>
               <p className="text-blue-100">
-                I'm always excited to work on new projects and connect with fellow developers. 
-                Whether it's a hackathon, open-source contribution, or a freelance opportunity, 
+                I'm always excited to work on new projects and connect with fellow developers.
+                Whether it's a hackathon, open-source contribution, or a freelance opportunity,
                 let's create something amazing together!
               </p>
             </motion.div>
