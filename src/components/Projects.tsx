@@ -6,14 +6,14 @@ export function Projects() {
     {
       title: "ManagerZero",
       description: "An AI-powered 'Chief of Staff' platform that automates task management and provides strategic insights using Gemini API. Built with Next.js and FastAPI.",
-      image: "/image.png",
+      image: "./image.png",
       technologies: ["Next.js", "FastAPI", "MongoDB", "Gemini API"],
       gradient: "from-blue-600 to-indigo-600"
     },
     {
       title: "Jan Sahayak",
       description: "AI-driven civic issue reporter that automatically classifies complaints and routes them to authorities. Featured in multiple hackathons.",
-      image: "/image copy.png",
+      image: "./image copy.png",
       technologies: ["React", "FastAPI", "TensorFlow", "SQLite"],
       gradient: "from-teal-500 to-emerald-500"
     },
