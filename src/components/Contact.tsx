@@ -203,22 +203,7 @@ export function Contact() {
                   </div>
                 </motion.a>
 
-                {/* Website/Domain */}
-                <motion.a
-                  href="https://sankalpkumar.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  whileHover={{ x: 5 }}
-                  className="flex items-start gap-4 p-5 rounded-2xl bg-card border border-border hover:border-primary/50 transition-all group"
-                >
-                  <div className="p-3 rounded-xl bg-primary/10 group-hover:bg-primary/20 transition-colors">
-                    <Send className="h-6 w-6 text-primary" />
-                  </div>
-                  <div>
-                    <p className="font-medium mb-1">Portfolio Domain</p>
-                    <p className="text-muted-foreground">sankalpkumar.com</p>
-                  </div>
-                </motion.a>
+
 
                 {/* Location */}
                 <motion.div
