@@ -6,7 +6,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-Welcome to the repository of my personal portfolio website. This is a modern, responsive, and high-performance portfolio built to showcase my projects, skills, and professional journey as a Full-Stack Developer and AI Enthusiast.
+Welcome to the repository of my personal portfolio website. I'm a student at **SRM University** (CGPA: 9.49) and a passionate Full-Stack Developer specializing in **MERN Stack, Python, and FastAPI**. I have a deep interest in Artificial Intelligence and building AI-driven solutions.
+
+This website is a modern, responsive, and high-performance portfolio built to showcase my projects, skills, and professional journey.
 
 ## 🚀 Features
 
