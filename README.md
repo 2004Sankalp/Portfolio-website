@@ -86,4 +86,4 @@ npm run deploy
 - **Portfolio**: [View Live](https://2004Sankalp.github.io/Portfolio-website/) (Update with your actual URL)
 
 ---
-*Created with  by Sankalp Kumar*
+*Created by Sankalp Kumar*
